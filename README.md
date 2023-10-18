@@ -30,7 +30,7 @@ Atlast , free the host and device memory then reset the device and check for res
 
 ## Program :
 ~~~
- Name : PASUPULETI SNDEEP
+ Name : PASUPULETI SANDEEP
  Reg no : 212221230074
 ~~~
 ### Common.h :
